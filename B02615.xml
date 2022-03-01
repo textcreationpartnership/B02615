@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the master of Stair</title>
+            <author>Dalrymple, Hew, Sir, 1652-1737.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02615</idno>
+            <idno type="OCLC"> 52212007</idno>
+            <idno type="STC">Wing D141A</idno>
+            <idno type="STC">ESTC R175897</idno>
+            <idno type="EEBO-CITATION">52212007</idno>
+            <idno type="OCLC">ocm 52212007</idno>
+            <idno type="VID">175634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175634)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the master of Stair</title>
+                  <author>Dalrymple, Hew, Sir, 1652-1737.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stair, John Dalrymple, --  Earl of, 1648-1707 --  Trials, litigation, etc.</term>
+               <term>Glencoe Massacre, 1692 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175634:1" rendition="simple:additions"/>
+            <head>
+               <hi>INFORMATION</hi> For the Master of <hi>STAIR.</hi>
+            </head>
+            <p>HIS Majeſties Commiſſioner having thought fit to Communicat to the Parliament, the Report, with the Evidences and Inſtructions taken and adduced before the Commiſſion of <hi>Glencoe,</hi> and the Maſter of <hi>Stair</hi>'s Freinds conceiving that he is mightily Prejudged by that Re<g ref="char:EOLhyphen"/>port, which notices particular Sentences or Periods of certain Letters of His, ſuppreſſing or not expreſſing other Material Periods of the ſame Letters, and from whence Conſequen<g ref="char:EOLhyphen"/>ces are drawn, which cannot follow upon a due conſideration of the whole.</p>
+            <p>The Maſters Friends had no Opportunity to ſee theſe Letters, or know the Tenor of them, till they were read in Parliament, and then being ſatisfied that they do not anſwer to the Rumors and Commentars that are ſpread abroad upon them, it was earneſtly deſired that the Letters might be Prin<g ref="char:EOLhyphen"/>ted for the Maſters Vindication, which was not obtained, nor doubles allowed to be taken; but the Grounds of the Report only allowed to be ſeen in the Clerks Hands.</p>
+            <p>There has been ſo much diſcourſe about <hi>Glenco,</hi> that little needs to be ſaid to ſtate the Caſe: Its known they were very ill Men, Rebells, Papiſts, Robbers and Theivs, which did not juſtifie any In<g ref="char:EOLhyphen"/>humanity in their Execution, but did expoſe them more to legal Severity than other Subjects.</p>
+            <p>His Majeſty being juſtly diſpleaſed, that many Rebels had diſpiſed two Indemnities, did reſolve in the next place, to apply the ſeverity of the Law, and none were found more fit to fall under it than thoſe of <hi>Glenco.</hi>
+            </p>
+            <p>To that end His Majeſtie granted Inſtructions to Sir <hi>Thomas Livingſtoun,</hi> on the 11th. <hi>January</hi> 1692, whereof the firſt runs in theſe Terms, <q>You are hereby Ordered and Authorized to march our Troops which are now poſted at <hi>Inverlochie</hi> and <hi>Inverneſs,</hi> to act againſt theſe <hi>High-land</hi> Rebels, who have not taken the benefit of our Indemnity, by Fire and Sword, and all manner of Hoſti<g ref="char:EOLhyphen"/>lity, to burn their Houſes, ſeize or deſtroy their Goods, Cattle, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leniſhing and Cloaths, and to cut off the Men: And the fourth Article bears, That the Rebels may not think themſelves abſolutly deſperat, We allow you, to own Powers, to give Terms and Quarters; But We are ſo convinced of the neceſſi<g ref="char:EOLhyphen"/>ty of Severity, and that they cannot be reclaimed, That We will not allow you, to give any other Terms to Chiſtans, Heretors or Leaders, but to be Priſoners of War, whereby their Lives are ſaved; But for all other things they muſt ſurrender on Mercy, and take the Oath of Allegiance. And the fourth Article of additional Inſtruction the 16th. of <hi>January</hi> 1692 bears, "If <hi>Mckean</hi> of <hi>Glenco,</hi> and his Tribe can be well ſeparated from the reſt, it will be a proper Vindication of the Publick Juſtice to exſtirpat that Sect of Theives.</q>
+            </p>
+            <p>The <hi>Highland</hi> Rebels, who had not accepted of the Indemnity, might lawfully have been cut off without Quarters, but His Majeſty molifies that Rigour, by allowing Sir <hi>Thomas Livingſton</hi> to give Terms and Quarters, yet <hi>Glenco</hi> was by theſe Orders to ly neareſt to the juſt Vengeance of the Law.</p>
+            <p>Old <hi>Mckean</hi> of <hi>Glenco,</hi> did not take the Oath in due time, but ſix days after, he prevailed with <hi>Ar<g ref="char:EOLhyphen"/>kinglaſs</hi> to Adminiſter the ſame, which <hi>Arkinglaſs</hi> did, and deſired that his Caſe might be repreſented to the Privy Council. But the reſt of his Clan, and Followers did not take the Oaths at all, yet up<g ref="char:EOLhyphen"/>on his taking the Oath, he and his People did look upon themſelves as ſecure, and <hi>Glenlyon,</hi> and his Company was Lodged among them in a peaceable manner, from the 1. to the 13. of <hi>February,</hi> and it ap<g ref="char:EOLhyphen"/>pears againſt the Rules of Hoſpitality and Humanity, that he with his Company, and others, did Barba<g ref="char:EOLhyphen"/>rouſly Murder, five and Twenty Men, and a Woman, and particularly his own Land-lord, and many aggravating Circumſtances, do clearly appear, particularly that men of great Age, and a Boy of Four<g ref="char:EOLhyphen"/>teen years were cut off, and that Captain <hi>Drummond</hi> was very forward in that cruel Execution.</p>
+            <p>The Parliament has conſidered his Majeſties Inſtructions, and the Execution, and have voted that the Inſtructions contain a Warrand for Mercy to all who offer to take the Oath of Allegiance, and come in upon Mercy without exception, though the Dyet prefixed was elapſed; and that the ſame con<g ref="char:EOLhyphen"/>tained no Warrand for the Execution of the <hi>Glenco</hi> men, made in <hi>February</hi> thereafter.</p>
+            <p>It was alſo Voted, that the ſaid Execution, as it was repreſented in Parliament, was a Murder.</p>
+            <p>It was further Moved, That the Parliament ſhould proceed to Conſider the Perſons guilty of the ſaid Murder, and the Report does load the Maſter of <hi>Stair,</hi> as if his Letters had given the Occaſion of it.</p>
+            <p>In the firſt place, the Report of the Commiſſion is noways to be reguarded to I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fluence any Mem<g ref="char:EOLhyphen"/>ber of Parliament, being privatly done, without acceſs allowed to any Party that might be Intereſ<g ref="char:EOLhyphen"/>ſed, but the Grounds and Inſtructions upon which it is Founded, are only to be conſidered.</p>
+            <p>If the Parliament ſhal proceed to Conſider the Inſtructions and Probation adduced, the firſt and moſt Natural Point to be co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſidered, is, who were the Executors; for if theſe Executors had no ſuf<g ref="char:EOLhyphen"/>fficient Warrand for what t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey did, or if they did that which no Warrand could Authorize, then certainly; as they were the Executors, ſo they ly neareſt to, and moſt juſtly under the Cenſure of the Nation. And the Probation as re-preſented to the Parliament bears, that <hi>Glenlyon,</hi> Captain <hi>Drum<g ref="char:EOLhyphen"/>mond,</hi> Lieutenant <hi>Lindſay,</hi> and others being moſt peaceably Lodged and Quartered among the <hi>Glenco</hi>
+               <pb n="2" facs="tcp:175634:2"/>men, from the firſt of <hi>February,</hi> and being civily received and entertained for the ſpace of 13 days, they got acceſs in a friendly manner, to come in to old <hi>Glencoe</hi>'s Chamber, where he lay and killed him treacherouſly behind his back, and that <hi>Glenlyon</hi>'s Land-lord was killed by him; and that old men ſuperannuated, two Children, and a Woman were killed.</p>
+            <p>This Execution was ſo Barbarous, that no Warrand could authorize it, the Laws of Humanity be<g ref="char:EOLhyphen"/>ing the ſtrongeſt of all Tyes, and whatever Obligations may ly upon Soldiers under Pay to execute Commands without diſputing, yet they are rather obliged to give up their Commiſſions than to fly in the face of Nature. 2. Though the Command of Superior Officers be very abſolute, yet no Com<g ref="char:EOLhyphen"/>mand againſt the Laws of Nature are binding, ſo that a Soldier retaining his Commiſſion, ought to refuſe to execute any Barbarity, as if a Soldier ſhould be commanded to ſhoot a Man paſſing by in<g ref="char:EOLhyphen"/>offenſively upon the Street, no ſuch Command would exeem him from the Puniſhment of Murder. 3. There is no pretence of any warrand for killing of Women or Children under age, neither did <hi>Glenlyon</hi> ſo much as ever remonſtrat to the giver of the Order, that he and his men were under the confidence of Hoſpitality, which the giver of the Order might not have conſidered ſo well, as he who received it was bound to do before the Execution.</p>
+            <p>The Parliament having found the Kings Order legal, and the Execution illegal, ſo ſoon as the Executors are found to have exceeded either their Warrand or the Laws of Humanity, the Work and Deſign of the Parliament is done.</p>
+            <p>But becauſe the Maſter of <hi>Stair</hi> hath been named in the Matter, for his Vindication, it is to be conſi<g ref="char:EOLhyphen"/>dered. Firſt, That there is a great difference in the Circumſtances of Affairs betwixt the time and the Suppoſition upon which he wrote, and what fell out about the ſame time, or ſhortly thereafter.</p>
+            <p>
+               <hi>Glencoe</hi> and his Son had been obſtinat R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bells, forefaulted in the Parliament 1690, irreconcilable to the Government, he himſelf a Murderer, all his Tribe hereditary Thieves, he and they had ſlighted two gracious Indemnities, the King was reſolved to make an Example of Juſtice, as many had been made of his Mercy; And it was thought that the ſame could be no where exerciſed more fitly to the Terror of others, and two of the Maſter of <hi>Stairs</hi> Letters, the firſt and third of <hi>December</hi> 1691, do expoſtulate that theſe Men were deluded by hopes of Better Terms and longer Dyets, whereby they would fall into the Net, which was a ſufficient Warning to beware, yet they did not imbrace the In<g ref="char:EOLhyphen"/>demnity.</p>
+            <p n="2">2. All the Secretaries Letters were wrote upon the ſuppoſition that they were ſtill obſtinat and irreconcilable Rebells, and no man can reaſonably ſay, that Rebells in ſuch Circumſtances might not be cut off, for an Example of publick Juſtice, neither was that Severity ſo much the Secretaries pro<g ref="char:EOLhyphen"/>per Sentiment, as that his Endeavour to bring in the Highlanders without Blood was miſconſtructed as flowing from Good-will and tenderneſs to the <hi>Jacobite</hi> Party, whom he would not have diſabled from their old Interprizes, and it was loudly diſcourſed at that time, that this Opportunity ſhould be taken to rid the Nation of the Barbarous Highlanders.</p>
+            <p>The Maſters Project not taking full Effect; and many rejecting the Offered Mercy, ſuch as obſtru<g ref="char:EOLhyphen"/>cted the Negotiation were ready to miſ-repreſent his Meaſures to the King; and there being Reſo<g ref="char:EOLhyphen"/>lution to make an Example of Severity on theſe very People, the Mr. was obliged to enter in it the more frankly, becauſe the Perſons to whom the Letters were directed, and had the Truſt of Exe<g ref="char:EOLhyphen"/>cution, had not been favourable to that Negotiation: and if he had appeared indifferent in that matter, he might have lyen under greater Cenſure another way-</p>
+            <p n="3">3. As the Maſter did not know that <hi>Glencoe</hi> had taken the Oathes, even after the Dyet elapſed, but looked upon all the Tribe as in open Rebellion, ſo much leſs did he know that the manner of Execution would be by a man lodged as a Friend thirteen Nights in their Boſom, or that they would kill Women or Children, in which the Inhumanity doth really conſiſt, for ſuppoſe the caſe that they all had been ſtanding out obſtinat Rebels, and never taken the Oathes, nor ſo much as offered Sub<g ref="char:EOLhyphen"/>miſſion, and that in ſuch Circumſtances, Military Forces had gone in and deſtroyed them all, no man can ſay there was any thing illegal or cruel in that, and it was the Opinion of all who adviſed the King, and it was His Majeſties Pleaſure it ſhould be ſo, and the Variation of Circumſtances with<g ref="char:EOLhyphen"/>out the Maſters Knowledge, did not alter the caſe as to him.</p>
+            <p>The Circumſtances that altered were two, the one, that old <hi>Glencoe</hi> took the Oath after the Dyet, which ſhould have prcoured him Mercy, and next the manner of Execution by Souldiers lodged in the Place, both were altogether unknown to the Maſter.</p>
+            <p>No Body loads the Maſter with the laſt and great Circumſtance, which relates to all the Perſons ſlain: but the other Circumſtance of Old <hi>Glencoes</hi> having taken the Oath, is alledged to have been known to the Maſter, and the Report of the Commiſſion is not poſitive in that Point, but it ſayes that it appears the ſame was knowen.</p>
+            <p>To this its anſwered. I. That if it can be inſtructed, that the Maſter did know of Old <hi>Glencoes</hi> taking the Oath, whether legally or not legally at the time of writing any of the Letters preceeding the Slaughter, whereof the laſt is dated the 30. of <hi>Jan.</hi> 1692. in that caſe the Maſter would be wil<g ref="char:EOLhyphen"/>ling to forefeit his Reputation, Life, and Fortune: ſo that it is ſtill poſitively and peremptorly aſſer<g ref="char:EOLhyphen"/>ted, that the Maſter was wholly ignorant of that Circumſtance.</p>
+            <p>The Evidence upon which the Report of the Maſters Knowledge of that Circumſtance proceeds, is the ſame Letter of the thirtieth of <hi>January,</hi> bearing, I <hi>am Glad</hi> Glencoe <hi>did not come in within the time preſcribed,</hi> &amp;c. from whence it is inferred, that he knew of <hi>Glencoes</hi> coming in after the time elapſed, which is a very wide Conſequence, <hi>Firſt,</hi> The embraceing the Indemnity, ſuppoſes the com<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:175634:2" rendition="simple:additions"/>in, in due time, and the Indemnity being in his view, he had no eye, nor Conſideration of what followed.</p>
+            <p n="2">2. That Letter could never be the Warrand of Sir <hi>Thomas Livingſtons</hi> Order, upon which the Ex<g ref="char:EOLhyphen"/>ecution followed, becauſe Sir <hi>Thomas</hi> his Order is upon the 23 of the ſaid Moneth, ſeven days prece<g ref="char:EOLhyphen"/>ding.</p>
+            <p n="3">3. His Letter of the ſame date direct to Collonel <hi>Hill,</hi> bears in the beginning, that he doubted not the Collonel would make the beſt uſe of the preſent Circumſtance, and where <hi>Glencoe</hi> is mentioned, it is ſaid he is fallen in the Mercy of the Law, and ſhortly after he adds theſe falſe People will do no<g ref="char:EOLhyphen"/>thing, but as they ſee you in condition to do with them, by the firſt and laſt of which Clauſes, which afterwards will be more largely related, it is evident that the Maſter leaves all to the Collonells Management, to whom the Order was alſo directed; and by the middle Clauſe, that <hi>Glencoe</hi> was ſtill conſidered as in the mercy of Law, which clears that the Maſter did not underſtand him to be under any Security by taking the Oaths, neither can theſe Letters be reckoned peremptor, becauſe all is thereby left to the Diſcretion and Management of the Perſons to whom they are directed.</p>
+            <p>And whereas it hath been further ſaid, that whether the Maſter knew of <hi>Glencoes</hi> taking the Oaths or not, yet his Letters are more peremptor than the Kings Inſtructions, in ſo far as the Kings Inſtru<g ref="char:EOLhyphen"/>ctions are qualified, and bear power to give Terms, and ſeveral of the Maſters Letters are peremp<g ref="char:EOLhyphen"/>tor for the Deſtruction of <hi>Glencoe,</hi> without mentioning the Quality which the Inſtructions do contain, and even the moſt peremptor Inſtruction againſt <hi>Glencoe,</hi> bearing, that if they could be well ſeparat from the reſt, it would be a proper Vindication of publict Juſtice to exſtirpat that Sect of Theives, does not take off the Quality, that they might be received upon Mercy.</p>
+            <p>It is anſwered, 1. Though the Maſters Letters were more Peremptor than the Kings Inſtructions; yet if they were within the Terms, and not exceeding the Rigours which the Law allows, the Ma<g ref="char:EOLhyphen"/>ſter could never be quarreled upon theſe; for either they were to be conſidered as writ by the Ma<g ref="char:EOLhyphen"/>ſter of <hi>Stair</hi> a privat Perſon, in which caſe they could afford no Authority, or Warrand to Impair or Extend the Kings Inſtructions: and theſe to whom the Inſtructions were directed, were bound to obey them, and not privat Letters; Or if the Maſters Letters were conſidered as flowing from the Secretary of State, the Kings Authority is preſumed to be there. And none can quarrel any Expreſ<g ref="char:EOLhyphen"/>ſion in theſe Letters, except the King himſelf, unleſs the Kings Authority were uſed to a thing in it ſelf unlawful, which could not be pretended; in ſo far as the <hi>Glencoe</hi> men being underſtood to be fore<g ref="char:EOLhyphen"/>feited obſtinat Rebels, they were abſolutely in the mercy of Law to be Cut off, or deſtroyed by Mi<g ref="char:EOLhyphen"/>litary Execution, without any mercy.</p>
+            <p n="2">2. <hi>Et ſeparatim,</hi> It is poſitively aſſerted, that there is not one Circumſtance in the Maſters Letters beyond the Kings Inſtructions, but all the Letters do bear Qualities in them, whereby they are to be conſtructed ſuitable and agreeable to the Inſtructions in all Points.</p>
+            <p>For clearing of this Point, its to be conſidered. 1. That nothing can be founded upon Letters poſterior to the Fact, whereof there are two; One of which bears, that the Execution was neither ſo full nor ſo fair, as it might have been, which blames and diſapproves of the manner. And any Ex<g ref="char:EOLhyphen"/>preſſion of theſe Letters that may be Interpreted a juſtifieing of Severity, is rather to be conſidered a covering of an Error and Eſcape, than an Approbation of what had paſt, and many things will be excuſed when they are done, that a reaſonable man would not adviſe nor practiſe; neither can it be ſuppoſed, that the worſt of the Circumſtances were known, ſuch as the Murder under Truſt.</p>
+            <p n="2">2. Nothing can be founded on the two Letters the thirtieth of <hi>January,</hi> though theſe do preceed the Execution; becauſe no Direction or Inſtruction followed upon the Letters of the 30th. In ſo far as Lieute<g ref="char:EOLhyphen"/>nnant Collonel <hi>Hamiltons</hi> Orders, both from Sir <hi>Thomas</hi> &amp; Collonel <hi>Hill</hi> were not only before theſe Orders could come to hand, but dated the 23d. of the ſame month of <hi>January,</hi> ſeven days before the Ma<g ref="char:EOLhyphen"/>ſters Letter, and their was no poſterior Orders directed upon Receipt of them, neither did theſe Letters exceed the Kings Warrand: in as far as they bear ſtill a Reference to the prudence and management of theſe to whom they are directed. And the Letter to Sir <hi>Thomas,</hi> contains a Clauſe after ſeveral parti<g ref="char:EOLhyphen"/>culars mentioned, <hi>viz, In theſe you can only be adviſed, but muſt be left to proſecute them as the State of Affairs will allow</hi> And thereafter, deſires him to communicat theſe Particulars to Collonel <hi>Hill,</hi> and that he would not be too far engaged with his Neighbours in Treaty, before he had heard of the Surrender of theſe two places, which were forgot in the Inſtructions: and the Words in relation to <hi>Glencoe,</hi> are not Commands but Advices. Firſt, he ſays <hi>I hope</hi> what is done may be in earneſt: Again, I <hi>think</hi> to herry their Cattle and burn their Houſes, would render them deſperat Lawleſs men to Rob their Neighbours: But <hi>I Believe,</hi> ye will be ſatisfied. It were an advantage to the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion they were rooted out, which are not words of Command or Direction, nor in the leaſt excluding the prudent Management which the King reſerved to Sir <hi>Thomas:</hi> and they are not ſo peremptor as the Words of the Inſtruction, bearing, That if they could be ſeparated from the reſt, they ſhould be Exſtirpated.</p>
+            <p>In like manner, the Maſters Letter of the ſame Date to Collonel <hi>Hill,</hi> bears, I doubt not you will as the Circumſtances will allow, make the beſt uſe of them that may be; <hi>Therefore at a Diſtance, you cannot receive furder Directions, than what you have under the Kings Hand;</hi> And thereafter he ſays, when any thing concerning <hi>Glencoe</hi> is reſolved, let it be ſecret and ſudden: better not to meddle with them, than not do it to purpoſe, to cut off that Neſt of Robbers who have fallen in the mercy of the Law. And thereafter he ſays, Theſe falſe people will do nothing but as they ſee you in Condition to do with them. And thereafter he ſays, they play faſt and looſe, as they find themſelves preſſed: there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:175634:3"/>all <hi>I</hi> can ſay, is better get their Houſes and their Strength, than all Aſſurance we can have from them; Deal with them as you find their Conſternation and your Circumſtances allows; but by all means be quick, that nothing remain till the <hi>Summer</hi> that they can have help.</p>
+            <p>The whole Tenor of theſe Letters clear, that the Maſter was far from deſigning to reſtrain Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> or the Collonel from the management of the Affair committed to their care, or excluding the Rebels from the benefit of His Majeſties Bounty allowed to be extended to them, in caſe of their offering Submiſſion to Sir <hi>Thomas.</hi>
+            </p>
+            <p>The next Point to be cleared is, That none of the Letters preceeding the Date of Sir <hi>Thomas</hi>'s Order, did exceed the Terms of Law, or the Kings Inſtructions. This doth appear from the Terms of the Letters which the Maſter wiſhed to have had Printed. The preceeding Letters are ſeven in num<g ref="char:EOLhyphen"/>ber, whereof the firſt two Direct to Lieutennant Collonel <hi>Hamilton</hi> on the 1ſt. and 3d. of <hi>December</hi> 1691, contain nothing but Expoſtulations. That theſe unhappy men deluded themſelves with the hopes of better Terms and new Dyets, and that they would get off without taking the Oaths, and foretelling that the <hi>Macdonalds</hi> would fall in the Net, and in the mercy of Law, and blaming ſuch as did Obſtruct their Submiſſions, and no bad Commentar can be made upon theſe.</p>
+            <p>The next Letter is of the 7th of <hi>Janaury</hi> direct to Sir <hi>Thomas Livingstoun,</hi> when the dyet was elapſed, and advertiſing h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that the Rebels would be proſecuted, and that powers would be given to him, which he aſſures would be full enough <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and hopes that the Souldiers will not trouble the Government with Priſoners, and that the ſlighting of mercy, and depending upon Forraign aſiſtance will juſtify all the ſeverity can be uſed againſt them, and adds I know well, they are cheated with the hopes of prolonging the dyet, and having the benefit of Indemnity without Oaths, and more money, but in all theſe they are deluded, and we muſt make ſure of them before they can get theſe Sup<g ref="char:EOLhyphen"/>plies from <hi>France</hi> they depend on, In all this there is nothing amiſs but an evidence of great Loyalty, and affection and a juſt zeal againſt obſtinat Rebels, who every ſeaſon put the Nation under the haza<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of an Invaſion by a cruel and powerful Enemy.</p>
+            <p>The next Letter is the 9th direct to Sir <hi>Thomas,</hi> and to the ſame purpoſe in which he ſayes, I do not ſee how new Treaties and Terms can be entred into, which can only be to preſerve them till help be had, Then he adds towards the end, I think it juſt that powers be lodged with you, who I know will uſe them diſcreetly for the Common-well, and adds that if they got not encouragement from others than the Maſter or Sir <hi>Thomas,</hi> not one man would have ſtood out.</p>
+            <p>This Letter relates to Inſtructions to be made, and promiſed that Powers would be Lodged with Sir <hi>Thomas,</hi> which was accordingly done by the fourth Article of the firſt Inſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uction.</p>
+            <p>The next Letter is of the 11th. of <hi>January,</hi> of the Date of the firſt Inſtructions, This is one of the chief Letters founded upon in the Report which doth only notice this Clauſe that the Earl of <hi>Argyle</hi> hath juſt now told me that <hi>Glencoe</hi> had not taken the Oath at which I rejoyce; It's a great work of Charity to be exact in Rooting out that Damnable Sect the worſt in all the <hi>High-lands:</hi> but the Commiſſion takes no notice of the other Clauſes of the ſame Letter which Demonſtratively clear that nothing of that Letter was deſign'd to Cut off Sir <hi>Thomas</hi>'s power to manage according to diſ<g ref="char:EOLhyphen"/>cretion in as far as it bears, I have ſent you the King's Inſtructions <hi>Super</hi> and ſubſcribed by himſelf, I am confident you will ſee there are full Powers given you in very plain Terms, and yet the me<g ref="char:EOLhyphen"/>thods left very much to your own Diſcretion &amp; thereafter another Clauſe bears, it is neceſſary you own that you have Power, and then proceeds to adviſe how he ſhould Treat and Manage theſe Powers.</p>
+            <p>There remains only two Letters dated the 16th. which are of the date of the laſt Inſtructions, bear<g ref="char:EOLhyphen"/>ing that if <hi>Glencoe</hi> could be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell ſeparat from the reſt, it would be a proper Vindication of Juſtice to exſtirpat that Sect; The words chiefly noticed by the Commiſſion in that Letter are theſe, I <hi>intreat you that for a juſt Vengeance and publick advantage, the Thieving Tribe of Glencoe may be Rooted out to purpoſe:</hi> But ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the Tenor of the Letter and Clauſe clearing the Deſign are Omitted, neither is that very Clauſe ſeverer, than the Terms of the Inſtructions, <hi>to exſtirpat that Sect of Thieves for the Vindication of publick Justice,</hi> but furder to teſtifie that the ſaid Clauſe did not exclud mercy and power to manage according to diſcretion; The Letter to Sir <hi>Thomas Livingſtone</hi> of that date is relative to the Additional Inſtructions in the beginning of it. 2 It bears, the King doth not at all incline to receive any after the Term but on Mercy, nor will he alter the Terms of the In<g ref="char:EOLhyphen"/>demnity, for that is to make people always Dodge &amp; Hope for better Terms than theſe who obeyed and came in within the day, therefore, that is left intirely to your diſcretion according to Circum<g ref="char:EOLhyphen"/>ſtances, but by no means leave any ſtanding that may Incourage or invite the <hi>French</hi> to ſend thi<g ref="char:EOLhyphen"/>ther Succours in the Spring, and in his Letter of the ſame date to Colonel <hi>Hill,</hi> he likewiſe re<g ref="char:EOLhyphen"/>lates to the Inſtructions directed both to him a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to Sir <hi>Thomas;</hi> Then adds <hi>I know your Senti<g ref="char:EOLhyphen"/>ments will be the ſame but none knows what power the King hath given you</hi> Then follows a Clauſe in theſe Terms <hi>it were to be deſired that theſe who ſtood out till the Dyet was Elapſed might be made Examples for their Folly, and that theſe ſhould not have the ſame Terms or better then theſe who in time did obey, and theſe Rebels Eſtates may be made a perpetual Fond for the Charge of the Gariſon. I am not for pun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilios to endanger a Diſgrace to the King</hi>'s <hi>Forces,</hi> &amp;c.</p>
+            <p>So the whoſe tenor and ſtrain of theſe Letters do clear, whatſoever rigour was deſigned for <hi>Glen<g ref="char:EOLhyphen"/>coe.</hi> either by the inſtructions, or the Maſter of <hi>Stairs</hi> Letters. yet all was in the terms of Law, and with reſervation to be uſed by Sir <hi>Thomas,</hi> and Colonel <hi>Hill,</hi> according to diſcretion and Circumſtances.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
